@@ -23,4 +23,3 @@ i think you get it, starting on line **44** you can change the names of the cate
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/76164598/170824479-5918fe82-18df-4549-8b20-c2b1595a27d0.png)
-# startpage
